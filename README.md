@@ -53,7 +53,7 @@ I'm a 3rd-year Software Engineering/CS Student [@KCA University](http://www.kca.
 #### Full Stack projects
 
 [![Bus Reservation System](https://img.shields.io/badge/-📚%20Library-fff?)](https://github.com/aboelkassem/Library_WebApplication)
-[![Portfolio](https://img.shields.io/badge/-👨‍💻%20Portfolio-fff?)](https://github.com/sav$ner/prtfolio Website)
+[![Portfolio](https://img.shields.io/badge/-👨‍💻%20Portfolio-fff?)](https://github.com/sav4ner/prtfolio Website)
 
 <br>
 
