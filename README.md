@@ -12,7 +12,7 @@ I'm a 3rd-year Software Engineering/CS Student [@KCA University](http://www.kca.
 ![](https://komarev.com/ghpvc/?username=sav4ner&color=brightgreen&style=flat)
 
 
-- :school: I'm currently studying in ... [Faculty of Computers & Information Syustems- KCA University](http://www.kca.ac.ke) Kenya
+- :school: I'm currently studying in ... [Faculty of Computers & Information Systems- KCA University](http://www.kca.ac.ke) Kenya
 - 🌱 I’m currently learning Software Engineering Principles,Android development, Software Architecture and Most Famous Design Patterns
 - 👨‍💻 All of my projects are available  [here](https://github.com/sav4ner?tab=repositories)
 - 👯 I’m looking to collaborate on ... Any of project
