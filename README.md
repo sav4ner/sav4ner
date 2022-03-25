@@ -53,7 +53,7 @@ I'm a 3rd-year Software Engineering Student at [@KCA University](http://www.kca.
 #### Full Stack projects
 
 1. [![Bus Reservation System](https://img.shields.io/badge/-📚%20BusReservationSystem-fff?)](https://github.com/sav4ner/eBus)<br>
-2. [![Portfolio](https://img.shields.io/badge/-👨‍💻%20TourismWebap-fff?)](https://github.com/sav4ner/AstraTours)<br>
+2. [![Portfolio](https://img.shields.io/badge/-👨‍💻%20TourismWebap-fff?)](https://astra-tours.vercel.app/)<br>
 <br>
 
 #### Backend
