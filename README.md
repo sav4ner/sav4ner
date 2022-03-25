@@ -34,9 +34,9 @@ I'm a 3rd-year Software Engineering Student at [@KCA University](http://www.kca.
 #### Technologies
 
 ![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-fff?style=flat&logo=Microsoft&logoColor=0078D7)
-![Vue](https://img.shields.io/badge/-Vue-fff?style=flat&logo=Vue&logoColor=de0330)
+![Vue](https://img.shields.io/badge/-Vue-fff?style=flat&logo=vue&logoColor=de0330)
 ![xUnit](https://img.shields.io/badge/-xUnit-fff?style=flat&logo=xunit&logoColor=blue)
-![Material Design](https://img.shields.io/badge/-Material%20Design-fff?style=flat&logo=material-design&logoColor=blue)
+![Django](https://img.shields.io/badge/-Django-fff?style=flat&logo=django&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Sass](https://img.shields.io/badge/-Sass-fff?style=flat&logo=Sass&logoColor=blue)
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=black)
@@ -52,8 +52,13 @@ I'm a 3rd-year Software Engineering Student at [@KCA University](http://www.kca.
 
 #### Full Stack projects
 
-[![Bus Reservation System](https://img.shields.io/badge/-📚%20Library-fff?)](https://github.com/aboelkassem/Library_WebApplication)
-[![Portfolio](https://img.shields.io/badge/-👨‍💻%20Portfolio-fff?)](https://github.com/sav4ner/prtfolio Website)
+1. [![Bus Reservation System](https://img.shields.io/badge/-📚%20BusReservationSystem-fff?)](https://github.com/sav4ner/eBus)<br>
+2. [![Portfolio](https://img.shields.io/badge/-👨‍💻%20TourismWebap-fff?)](https://github.com/sav4ner/AstraTours)<br>
+<br>
+
+#### Backend
+
+1. [![Portfolio](https://img.shields.io/badge/-👨‍💻%20DjangoRestfullApi-fff?)](https://github.com/sav4ner/AstraPark)
 
 <br>
 
