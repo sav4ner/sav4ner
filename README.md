@@ -1,7 +1,7 @@
 ![Sav4ner 4](https://user-images.githubusercontent.com/74011499/136277704-c94f32e8-2981-4795-aea9-6118aaf0e343.png)
 
 
-### Hi, I'm <a href="https://www.sav4ner.me"> Sav4ner (Mutai Levin)</a>
+### Hi, I'm <a href="https://www.sav4ner.me"> Levin</a>
 
 I'm a 3rd-year Software Engineering Student at [@KCA University](http://www.kca.ac.ke/) in Kenya, pursuing a Bachelor's degree in Software Development. I love to solve problems with code. I enjoy being challenged and love working on projects that require working out of my comfort zone and skill set. I'm interested in Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.<br/>
 
