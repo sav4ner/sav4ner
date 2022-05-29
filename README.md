@@ -3,7 +3,7 @@
 
 ### Hi, I'm <a href="https://www.sav4ner.me"> Levin</a>
 
-I'm a 3rd-year Software Engineering Student at [@KCA University](http://www.kca.ac.ke/) in Kenya, pursuing a Bachelor's degree in Software Development. I love to solve problems with code. I enjoy being challenged and love working on projects that require working out of my comfort zone and skill set. I'm interested in Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.<br/>
+I'm a Software Engineering Student at [@KCA University](http://www.kca.ac.ke/) in Kenya, pursuing a Bachelor's degree in Software Development. I love to solve problems with code. I enjoy being challenged and love working on projects that require working out of my comfort zone and skill set. I'm interested in Software development, Machine Learning, and open source :octocat:. I love to learn and contribute in any and every possible way.<br/>
 
 [![twitter badge](https://img.shields.io/badge/-@sav4ner?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sav4ner)
 [![twitter badge](https://img.shields.io/badge/-@sav4ner-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/levi.n.iz)
