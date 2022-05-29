@@ -11,14 +11,12 @@ I'm a Software Engineering Student at [@KCA University](http://www.kcau.ac.ke/),
 ![githubbadge](https://img.shields.io/github/followers/sav4ner?style=social)
 ![](https://komarev.com/ghpvc/?username=sav4ner&color=brightgreen&style=flat)
 
-
-- :school: I'm currently studying in ... [Faculty of Computers & Information Systems- KCA University](http://www.kca.ac.ke) Kenya
-- 🌱 I’m currently learning Software Engineering Principles,Android development, Software Architecture and Most Famous Design Patterns
-- 👨‍💻 All of my projects are available  [here](https://github.com/sav4ner?tab=repositories)
-- 👯 I’m looking to collaborate on ... Any of project
-- 💬 Ask me about ... What ever.... :laughing:
-- 👯 Looking for an internship or opportunity.
-- 😄 Pronouns: ... He
+-  I’m currently learning Software Engineering Principles,Android development, Software Architecture and Most Famous Design Patterns
+-  All of my projects are available  [here](https://github.com/sav4ner?tab=repositories)
+-  I’m looking to collaborate on ... Any of project
+-  Ask me about ... What ever.... :laughing:
+-  Looking for an internship or opportunity.
+-  Pronouns: ... He
 
 #### Languages
 
